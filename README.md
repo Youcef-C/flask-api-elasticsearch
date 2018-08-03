@@ -40,4 +40,6 @@ make help :
 
 ### Technical test
 - [French version](docs/technical_test_fr.md)
-- [English version](docs/technical_test_en.md)# flask-api-elasticsearch
+- [English version](docs/technical_test_en.md)
+
+# flask-api-elasticsearch
